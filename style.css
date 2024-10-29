@@ -1,3 +1,23 @@
 h1 {
     color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 25px;
+}
+
+#name {
+    color: green;
+    font-weight: bold;
+}
+
+.tiempo{
+    background-color: rgb(25, 197, 245);
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 10%;
 }
